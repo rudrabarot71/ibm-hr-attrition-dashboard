@@ -15,18 +15,6 @@ Conduct a comprehensive analysis of IBM's employee attrition data using Power BI
 
 ---
 
-## Key Performance Indicators (KPIs)
-
-| KPI | Value |
-|---|---|
-| Total Employees | 1,470 |
-| Active Employees | 1,233 |
-| Attrition Total | 237 |
-| Attrition Rate | 16.12% |
-| Critical Risk Employees | 53 |
-
----
-
 ## Business Questions
 
 **1. What drives attrition? (Overtime & Compensation)**
@@ -43,6 +31,17 @@ Conduct a comprehensive analysis of IBM's employee attrition data using Power BI
 - Critical Risk employees leave at a 58% rate vs 6% for Safe employees — the risk model predicts reality
 - 53 employees are currently flagged as Critical Risk Employees across key roles
 - Sales Executives lead the at-risk table at 57.14% attrition, followed by Human Resources at 50%
+
+---
+## Key Performance Indicators (KPIs)
+
+| KPI | Value |
+|---|---|
+| Total Employees | 1,470 |
+| Active Employees | 1,233 |
+| Attrition Total | 237 |
+| Attrition Rate | 16.12% |
+| Critical Risk Employees | 53 |
 
 ---
 
