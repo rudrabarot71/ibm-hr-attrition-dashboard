@@ -48,7 +48,7 @@ Conduct a comprehensive analysis of IBM's employee attrition data using Power BI
 
 ## Salary Band Model
 
-A custom Salary Band column was built in Power Query grouping each employee into one of four compensation tiers based on their Monthly Income — Low (≤ 3,000), Mid (3,001 — 6,000), High (6,001 — 10,000), and Very High (10,000+). This eliminated the noise of raw salary figures and made it possible to compare attrition rates cleanly across pay levels.
+A custom Salary Band column was built in Power Query grouping each employee into one of four compensation tiers based on their Monthly Income — Low (≤ 3,000), Mid (3,001 — 6,000), High (6,001 — 10,000), and Very High (10,000+). This eliminated the noise of raw salary figures and made it possible to compare attrition rates cleanly across pay levels. 
 
 ---
 
